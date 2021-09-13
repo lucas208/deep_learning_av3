@@ -3,7 +3,7 @@ Repositório criado para armazenar o material utilizado no projeto final da disc
 
 Componentes: Levir Chianca Medeiros dos Santos e Lucas Otávio Vieira
 
-Database: https://www.tensorflow.org/datasets/catalog/beans
+Database: https://github.com/AI-Lab-Makerere/ibean/
 
 Referências:
 
